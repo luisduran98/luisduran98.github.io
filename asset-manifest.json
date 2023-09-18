@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20135d05.css",
+    "main.js": "/static/js/main.bcc2ed18.js",
+    "static/media/cachorra.jpg": "/static/media/cachorra.be1be1a8297310c45bba.jpg",
+    "index.html": "/index.html",
+    "main.20135d05.css.map": "/static/css/main.20135d05.css.map",
+    "main.bcc2ed18.js.map": "/static/js/main.bcc2ed18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20135d05.css",
+    "static/js/main.bcc2ed18.js"
+  ]
+}
